@@ -1,6 +1,7 @@
 git clone
 git add . 
 git commit -m ''
+git pull
 git branch update_script
 git checkout update_script
 git branch -m main
